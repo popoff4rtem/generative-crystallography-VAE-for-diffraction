@@ -37,7 +37,8 @@ The repository also includes:
 - Generative quality metrics (PSNR, SSIM, Inception Score, per-class FID)
 - A latent diffusion transformer (DiT) trained on VAE latent space
 
-Architecture figure will be added here.
+![Spatial Vit VAE Architecture](Figs/Figure%203.png)
+
 
 ---
 
