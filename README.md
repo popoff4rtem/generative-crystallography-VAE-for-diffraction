@@ -244,5 +244,5 @@ This work builds upon advances in:
 
 # 📬 Contact
 For questions or collaboration:
-Artem Popoff popoff4rtem@gmail.com
+Artem Popov popoff4rtem@gmail.com
 
